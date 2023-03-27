@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Google Maps API</h1>
+      <h1>Current Location Finder</h1>
       <div style={{ display: "flex" }}>
         <input value={address} type="text" style={{ width: 450, height: 40, alignItems: "stretch" }} />
       </div>
